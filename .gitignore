@@ -164,5 +164,3 @@ cython_debug/
 # api-key file instructed to use
 # typical api usage would be through .env above
 api_keys.py
-# ignore solution images for final check
-output_data/
